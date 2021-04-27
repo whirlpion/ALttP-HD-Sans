@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="76"
-   width="76"
-   sodipodi:docname="ALttP-HD-Sans-base.svg"
+   height="1000"
+   width="1000"
+   sodipodi:docname="ALttP-HD-Sans.svg"
    version="1.1"
    id="svg46"
-   viewBox="0 16 76 76"
+   viewBox="0 0 1000 1000"
    inkscape:version="1.0.2 (1.0.2+r75+1)">
   <sodipodi:namedview
      id="base"
@@ -21,9 +21,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.999999"
-     inkscape:cx="8.6964393"
-     inkscape:cy="49.83171"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="237.83889"
+     inkscape:cy="738.34708"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -33,60 +33,70 @@
      inkscape:window-x="1920"
      inkscape:window-y="40"
      inkscape:window-maximized="1"
-     showborder="true"
+     showborder="false"
      inkscape:showpageshadow="false"
      inkscape:document-rotation="0">
     <sodipodi:guide
-       id="guide_baseline"
-       inkscape:label="baseline"
-       position="0,16"
+       id="guide_top"
+       inkscape:label="top"
+       position="0,800"
        orientation="0,1" />
     <sodipodi:guide
        id="guide_ascender"
        inkscape:label="ascender"
-       position="0,68"
+       position="0,650"
        orientation="0,1" />
     <sodipodi:guide
        id="guide_caps"
        inkscape:label="caps"
-       position="0,60"
+       position="0,550"
        orientation="0,1" />
     <sodipodi:guide
        id="guide_xheight"
        inkscape:label="xheight"
-       position="0,48"
+       position="0,400"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide_baseline"
+       inkscape:label="baseline"
+       position="0,0"
        orientation="0,1" />
     <sodipodi:guide
        id="guide_descender"
        inkscape:label="descender"
-       position="0,8"
+       position="0,-100"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide_bottom"
+       inkscape:label="bottom"
+       position="0,-200"
        orientation="0,1" />
     <inkscape:grid
        type="xygrid"
-       id="grid84" />
+       id="grid48" />
   </sodipodi:namedview>
   <defs
      id="defs4">
     <font
-       horiz-origin-x="0"
-       horiz-origin-y="0"
-       vert-origin-x="0"
-       vert-origin-y="16"
-       horiz-adv-x="76"
-       id="font88"
-       inkscape:label="font 0">
+       horiz-adv-x="1000"
+       id="font20"
+       inkscape:label="ALttP-HD-Sans"
+       horiz-origin-y="0">
       <font-face
-         units-per-em="76"
-         id="font-face90"
-         font-family="SVGFont 0" />
+         units-per-em="1000"
+         id="ALttP-HD-Sans"
+         font-family="ALttP-HD-Sans"
+         ascent="775"
+         descent="0" />
       <missing-glyph
-         d="M 7,16 9,43 39,41 43,16 Z"
-         id="missing-glyph92" />
+         d="M 0,650 V 0 H 250 V 650 Z M 50,600 H 200 V 50 H 50 Z"
+         id="missing-glyph29" />
       <glyph
-         glyph-name="A"
-         id="glyph94"
+         glyph-name="Capital A"
+         id="glyph81"
          unicode="A"
-         d="M 0,0 2,27 32,25 36,0 Z" />
+         d="M 100,550 A 100,-100 0 0 1 0,450 V 0 H 50 V 250 H 150 V 0 h 50 V 450 A 100,-100 0 0 1 100,550 Z m 0,-50 a 50,-50 0 0 0 0.0527,0 50,-50 0 0 0 50,-50 V 300 H 50.052734 v 149.94727 a 50,-50 0 0 0 0,0.0527 A 50,-50 0 0 0 100,500 Z"
+         horiz-adv-x="250" />
     </font>
   </defs>
   <metadata
@@ -97,7 +107,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -107,8 +117,7 @@
      inkscape:label="A"
      style="display:inline">
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0,76 2,-27 30,2 4,25 z"
-       id="path86" />
+       id="rect66"
+       d="M 100,450 A 100,100 0 0 0 0,550 v 450 H 50 V 750 h 100 v 250 h 50 V 550 A 100,100 0 0 0 100,450 Z m 0,50 a 50,50 0 0 1 0.0527,0 50,50 0 0 1 50,50 V 700 H 50.052734 V 550.05273 a 50,50 0 0 1 0,-0.0527 A 50,50 0 0 1 100,500 Z" />
   </g>
 </svg>
