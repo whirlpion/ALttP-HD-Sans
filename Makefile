@@ -1,7 +1,7 @@
 .DEFAULT_GOAL := build
 
 build:
-	./svg2otf.pe ALttP-HD-Sans.svg
+	./svg2otf.pe ALttP-HD-Sans.svg ALttp-HD-Sans.otf
 
 clean:
-	rm ALttP-HD-Sans.otf
+	rm *.otf
