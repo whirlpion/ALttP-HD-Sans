@@ -21,11 +21,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="103.65729"
-     inkscape:cy="669.86947"
+     inkscape:zoom="0.5"
+     inkscape:cx="230.79735"
+     inkscape:cy="995.2364"
      inkscape:document-units="px"
-     inkscape:current-layer="layer20"
+     inkscape:current-layer="layer23"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -42,15 +42,19 @@
      inkscape:snap-perpendicular="true"
      inkscape:snap-to-guides="false"
      inkscape:snap-smooth-nodes="false"
-     inkscape:snap-midpoints="false"
+     inkscape:snap-midpoints="true"
      inkscape:snap-others="true"
-     inkscape:object-paths="true"
+     inkscape:object-paths="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
-     inkscape:bbox-paths="false"
+     inkscape:bbox-paths="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-bbox-midpoints="false">
     <sodipodi:guide
        id="guide_top"
        inkscape:label="top"
@@ -216,6 +220,24 @@
          unicode="Q"
          horiz-adv-x="290"
          d="M 100,550 A 100,-100 0 0 1 0,450 V 100 A 100,-100 0 0 1 100,0 100,-100 0 0 1 176.32422,35.39062 L 211.71484,0 H 240 V 28.28516 L 196.06445,72.2207 A 100,-100 0 0 1 200,100 V 450 A 100,-100 0 0 1 100,550 Z m 0,-50 a 50,-50 0 0 0 0.0527,0 50,-50 0 0 0 50,-50 V 118.23242 L 118.28516,150 H 90 v -28.28516 l 50.75391,-50.7539 A 50,-50 0 0 0 100.05273,50 50,-50 0 0 0 50.052734,100 v 349.94727 a 50,-50 0 0 0 0,0.0527 A 50,-50 0 0 0 100,500 Z" />
+      <glyph
+         glyph-name="R"
+         id="glyph1220"
+         unicode="R"
+         horiz-adv-x="250"
+         d="M 0,550 V 0 c 16.666667,0 33.333333,0 50,0 v 250 c 18.75,0 33.878625,-0.39415 44.384766,-3.35742 10.506144,-2.96327 17.105854,-6.80109 25.148434,-19.43946 C 135.61837,201.92644 150,135.98485 150,0 h 50 c 0,139.01515 -10.61837,210.57354 -38.2832,254.04688 -2.5941,4.07644 -5.4038,7.85871 -8.38868,11.3496 C 181.37147,283.1105 200,314.37837 200,350 v 100 c 0,55.22847 -44.77153,100 -100,100 z M 50,500 H 99.947266 100 c 27.61424,0 50,-22.38576 50,-50 V 350.05273 350 c 0,-27.61424 -22.38576,-50 -50,-50 -16.400779,-2.7e-4 -34.195566,6.6e-4 -50,0 z" />
+      <glyph
+         glyph-name="S"
+         id="glyph1414"
+         unicode="S"
+         d="M 100,550 A 100,-100 0 0 1 0,450 V 350 A 100,-100 0 0 1 100,250 c 27.61424,0 50,-22.38576 50,-50 V 100 C 150,72.38576 127.61424,50 100,50 72.38576,50 50,72.38576 50,100 v 50 H 0 V 100 A 100,-100 0 0 1 100,0 100,-100 0 0 1 200,100 V 200 A 100,-100 0 0 1 100,300 c -27.61424,0 -50,22.38576 -50,50 v 100 c 0,27.61424 22.38576,50 50,50 27.61424,0 50,-22.38576 50,-50 v -50 h 50 v 50 A 100,-100 0 0 1 100,550 Z"
+         horiz-adv-x="250" />
+      <glyph
+         glyph-name="T"
+         id="glyph1421"
+         unicode="T"
+         d="M 0,550 V 500 H 100 V 0 h 50 v 500 h 100 v 50 z"
+         horiz-adv-x="300" />
     </font>
   </defs>
   <metadata
@@ -237,12 +259,95 @@
      style="display:inline">
     <g
        inkscape:groupmode="layer"
+       id="layer23"
+       inkscape:label="T">
+      <path
+         id="rect1417"
+         style="fill:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:50;stroke-dasharray:none"
+         d="M 0 450 L 0 500 L 100 500 L 100 1000 L 150 1000 L 150 500 L 250 500 L 250 450 L 0 450 z " />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer22"
+       inkscape:label="S"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <rect
+         style="fill:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:50;stroke-dasharray:none"
+         id="rect1261"
+         width="100"
+         height="50"
+         x="-375"
+         y="450" />
+      <rect
+         style="fill:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:50;stroke-dasharray:none"
+         id="rect1263"
+         width="50"
+         height="100"
+         x="-275"
+         y="500" />
+      <rect
+         style="fill:#000000;stroke-width:53.4522;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:50;stroke-dasharray:none"
+         id="rect1265"
+         width="50"
+         height="200"
+         x="-425"
+         y="500" />
+      <rect
+         style="fill:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:50;stroke-dasharray:none"
+         id="rect1267"
+         width="100"
+         height="50"
+         x="-375"
+         y="700" />
+      <rect
+         style="fill:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:50;stroke-dasharray:none"
+         id="rect1269"
+         width="50"
+         height="200"
+         x="-275"
+         y="750" />
+      <rect
+         style="fill:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:50;stroke-dasharray:none"
+         id="rect1271"
+         width="100"
+         height="50"
+         x="-375"
+         y="950" />
+      <rect
+         style="fill:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:50;stroke-dasharray:none"
+         id="rect1273"
+         width="50"
+         height="100"
+         x="-425"
+         y="850" />
+      <path
+         id="path1339"
+         style="fill:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:50;stroke-dasharray:none"
+         d="M 100,450 A 100,100 0 0 0 0,550 v 100 a 100,100 0 0 0 100,100 c 27.61424,0 50,22.38576 50,50 v 100 c 0,27.61424 -22.38576,50 -50,50 -27.61424,0 -50,-22.38576 -50,-50 V 850 H 0 v 50 A 100,100 0 0 0 100,1000 100,100 0 0 0 200,900 V 800 A 100,100 0 0 0 100,700 C 72.38576,700 50,677.61424 50,650 V 550 c 0,-27.61424 22.38576,-50 50,-50 27.61424,0 50,22.38576 50,50 v 50 h 50 V 550 A 100,100 0 0 0 100,450 Z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer21"
+       inkscape:label="R"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="rect989-7"
+         style="display:inline;fill:#000000;stroke-width:50;stroke-linejoin:bevel"
+         d="m 0,450 v 550 c 16.666667,0 33.333333,0 50,0 V 750 c 18.75,0 33.878625,0.39415 44.384766,3.35742 10.506144,2.96327 17.105854,6.80109 25.148434,19.43946 C 135.61837,798.07356 150,864.01515 150,1000 h 50 c 0,-139.01515 -10.61837,-210.57354 -38.2832,-254.04688 -2.5941,-4.07644 -5.4038,-7.85871 -8.38868,-11.3496 C 181.37147,716.8895 200,685.62163 200,650 V 550 C 200,494.77153 155.22847,450 100,450 Z m 50,50 H 99.947266 100 c 27.61424,0 50,22.38576 50,50 V 649.94727 650 c 0,27.61424 -22.38576,50 -50,50 -16.400779,2.7e-4 -34.195566,-6.6e-4 -50,0 z"
+         sodipodi:nodetypes="ccccssccscssscccsscsccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer20"
-       inkscape:label="Q">
+       inkscape:label="Q"
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="path937-5"
          style="display:inline;fill:#000000;stroke-width:50;stroke-linejoin:bevel"
-         d="M 100 450 A 100 100 0 0 0 0 550 L 0 900 A 100 100 0 0 0 100 1000 A 100 100 0 0 0 176.32422 964.60938 L 211.71484 1000 L 240 1000 L 240 971.71484 L 196.06445 927.7793 A 100 100 0 0 0 200 900 L 200 550 A 100 100 0 0 0 100 450 z M 100 500 A 50 50 0 0 1 100.05273 500 A 50 50 0 0 1 150.05273 550 L 150.05273 881.76758 L 118.28516 850 L 90 850 L 90 878.28516 L 140.75391 929.03906 A 50 50 0 0 1 100.05273 950 A 50 50 0 0 1 50.052734 900 L 50.052734 550.05273 A 50 50 0 0 1 50.052734 550 A 50 50 0 0 1 100 500 z " />
+         d="M 100,450 A 100,100 0 0 0 0,550 v 350 a 100,100 0 0 0 100,100 100,100 0 0 0 76.32422,-35.39062 L 211.71484,1000 H 240 V 971.71484 L 196.06445,927.7793 A 100,100 0 0 0 200,900 V 550 A 100,100 0 0 0 100,450 Z m 0,50 a 50,50 0 0 1 0.0527,0 50,50 0 0 1 50,50 V 881.76758 L 118.28516,850 H 90 v 28.28516 l 50.75391,50.7539 A 50,50 0 0 1 100.05273,950 50,50 0 0 1 50.052734,900 V 550.05273 a 50,50 0 0 1 0,-0.0527 A 50,50 0 0 1 100,500 Z" />
       <path
          id="path937-5-1"
          style="display:inline;fill:#000000;stroke-width:50;stroke-linejoin:bevel"
