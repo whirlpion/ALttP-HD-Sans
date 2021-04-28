@@ -21,11 +21,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="230.79735"
-     inkscape:cy="675.2364"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="197.66455"
+     inkscape:cy="740.1033"
      inkscape:document-units="px"
-     inkscape:current-layer="layer24"
+     inkscape:current-layer="layer25"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -41,7 +41,7 @@
      inkscape:snap-tangential="true"
      inkscape:snap-perpendicular="true"
      inkscape:snap-to-guides="false"
-     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-others="true"
      inkscape:object-paths="true"
@@ -244,6 +244,12 @@
          unicode="U"
          horiz-adv-x="250"
          d="M 0,550 V 100 C 0,44.77153 44.771525,0 100,0 155.22847,0 200,44.77153 200,100 V 550 H 150.05273 V 100.05273 100 c 0,-27.61424 -22.38576,-50 -50,-50 -27.614236,0 -49.999996,22.38576 -49.999996,50 V 549.94727 550 Z" />
+      <glyph
+         glyph-name="V"
+         id="glyph1545"
+         unicode="V"
+         horiz-adv-x="300"
+         d="M 100,0 0,400 V 550 H 50 V 400 l 75,-300 75,300 v 150 h 50 V 400 L 150,0 Z" />
     </font>
   </defs>
   <metadata
@@ -265,9 +271,28 @@
      style="display:inline">
     <g
        inkscape:groupmode="layer"
+       id="layer25"
+       inkscape:label="V">
+      <path
+         id="path1484"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         d="m -425,425 v 150 c 0,25 0.25542,41.39255 6.8457,71.04883 6.59029,29.65627 19.11524,73.31836 44.11524,160.81836 L -326.00195,975 H -325 h 50 1.00195 l 48.03711,-168.13281 c 25,-87.5 37.52495,-131.16209 44.11524,-160.81836 C -175.25542,616.39255 -175,600 -175,575 V 425 h -50 v 150 c 0,25 0.25542,33.60745 -5.6543,60.20117 -5.90971,26.59373 -18.38476,70.43164 -43.38476,157.93164 L -300,883.99609 -325.96094,793.13281 c -25,-87.5 -37.47505,-131.33791 -43.38476,-157.93164 C -375.25542,608.60745 -375,600 -375,575 V 425 Z" />
+      <path
+         id="rect1486"
+         style="fill:#000000;fill-opacity:0.416553;stroke-width:50;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none"
+         d="M 0,450 V 700 H 50 V 450 Z m 50,250 v 200 h 50 V 700 Z m 50,200 v 100 h 50 V 900 Z m 50,0 h 50 V 700 h -50 z m 50,-200 h 50 V 450 h -50 z"
+         sodipodi:insensitive="true" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+         d="M 100,1000 0,600 V 450 h 50 v 150 l 75,300 75,-300 V 450 h 50 v 150 l -100,400 z"
+         id="path1549" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer24"
        inkscape:label="U"
-       style="display:inline">
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="path937-6"
          style="display:inline;fill:#000000;stroke-width:50;stroke-linejoin:bevel"
