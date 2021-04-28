@@ -21,11 +21,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="55.033185"
-     inkscape:cy="752.84714"
+     inkscape:zoom="1"
+     inkscape:cx="69.221877"
+     inkscape:cy="691.66998"
      inkscape:document-units="px"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer15"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -101,7 +101,8 @@
        inkscape:color="rgb(0,0,255)" />
     <inkscape:grid
        type="xygrid"
-       id="grid48" />
+       id="grid48"
+       empspacing="25" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -191,6 +192,12 @@
          unicode="L"
          horiz-adv-x="250"
          d="M 0,550 C 0,366.66667 0,183.33333 0,0 66.666667,0 133.33333,0 200,0 V 50 H 50 v 500 z" />
+      <glyph
+         glyph-name="M"
+         id="glyph87"
+         unicode="M"
+         d="M 0,550 V 0 h 50 v 475 l 50,-75 V 0 h 50 v 400 l 50,75 V 0 h 50 V 550 H 200 L 125,437.5 50,550 Z"
+         horiz-adv-x="300" />
     </font>
   </defs>
   <metadata
@@ -201,7 +208,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -211,8 +218,24 @@
      inkscape:label="Capital Letters">
     <g
        inkscape:groupmode="layer"
+       id="layer15"
+       inkscape:label="M">
+      <path
+         id="rect924"
+         style="stroke-width:46.5475;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -400,450 v 550 h 50 V 550 h 50 v -50 h -50 v -50 z m 100,100 v 450 h 50 V 550 Z m 50,0 h 50 v 450 h 50 V 450 h -50 v 50 h -50 z"
+         sodipodi:nodetypes="ccccccccccccccccccccccc" />
+      <path
+         id="rect934"
+         style="stroke-width:50;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 0,450 v 550 H 50 V 525 l 50,75 v 400 h 50 V 600 l 50,-75 v 475 h 50 V 450 H 200 L 125,562.5 50,450 Z"
+         sodipodi:nodetypes="cccccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer14"
-       inkscape:label="L">
+       inkscape:label="L"
+       style="display:none">
       <path
          id="rect79"
          d="m 0,450 c 0,183.33333 0,366.66667 0,550 66.666667,0 133.33333,0 200,0 V 950 H 50 V 450 Z"
