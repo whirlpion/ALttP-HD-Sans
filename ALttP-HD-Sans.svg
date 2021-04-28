@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="1000"
-   width="1000"
-   sodipodi:docname="ALttP-HD-Sans.svg"
-   version="1.1"
-   id="svg46"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
    viewBox="0 0 1000 1000"
-   inkscape:version="1.0.2 (1.0.2+r75+1)">
+   id="svg46"
+   version="1.1"
+   sodipodi:docname="ALttP-HD-Sans.svg"
+   width="1000"
+   height="1000">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -21,11 +21,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-145.28666"
-     inkscape:cy="790.82939"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="55.033185"
+     inkscape:cy="752.84714"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer14"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -54,37 +54,51 @@
        id="guide_top"
        inkscape:label="top"
        position="0,800"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        id="guide_ascender"
        inkscape:label="ascender"
        position="0,650"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        id="guide_caps"
        inkscape:label="caps"
        position="0,550"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        id="guide_xheight"
        inkscape:label="xheight"
        position="0,400"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        id="guide_baseline"
        inkscape:label="baseline"
        position="0,0"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        id="guide_descender"
        inkscape:label="descender"
        position="0,-100"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        id="guide_bottom"
        inkscape:label="bottom"
        position="0,-200"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
     <inkscape:grid
        type="xygrid"
        id="grid48" />
@@ -92,18 +106,18 @@
   <defs
      id="defs4">
     <font
-       horiz-adv-x="1000"
-       id="font20"
+       horiz-adv-x="300"
+       id="font32"
        inkscape:label="ALttP-HD-Sans"
        horiz-origin-y="0">
       <font-face
          units-per-em="1000"
          id="ALttP-HD-Sans"
          font-family="ALttP-HD-Sans"
-         ascent="775"
+         ascent="800"
          descent="0" />
       <missing-glyph
-         d="M 0,650 V 0 H 250 V 650 Z M 50,600 H 200 V 50 H 50 Z"
+         d="M 0,650 V 0 C 83.333333,0 166.66667,0 250,0 V 650 Z M 50,600 H 200 V 50 H 50 Z"
          id="missing-glyph29" />
       <glyph
          glyph-name="A"
@@ -116,13 +130,13 @@
          id="glyph223"
          unicode="B"
          horiz-adv-x="250"
-         d="M 0,550 V 450 350.22461 A 100,-100 0 0 1 0,350 V 200 100.22461 A 100,-100 0 0 1 0,100 V 0 H 100 A 100,-100 0 0 1 200,100 V 200 A 100,-100 0 0 1 166.14258,275 100,-100 0 0 1 200,350 V 450 A 100,-100 0 0 1 100,550 Z m 50,-50 h 50 a 50,-50 0 0 0 50,-50 V 350.05273 A 50,-50 0 0 0 150,350 50,-50 0 0 0 100,300 H 50 v 49.94727 A 50,-50 0 0 0 50,350 v 99.94727 A 50,-50 0 0 0 50,450 Z m 0,-250 h 50 a 50,-50 0 0 0 50,-50 V 100.05273 A 50,-50 0 0 0 150,100 50,-50 0 0 0 100,50 H 50 V 99.94727 A 50,-50 0 0 0 50,100 v 99.94727 A 50,-50 0 0 0 50,200 Z" />
+         d="M 0,550 C 1.2331898e-7,369.65136 -4.063082e-7,173.22136 0,0 h 100 c 55.22847,0 100,44.77153 100,100 v 100 c -3e-4,28.70025 -12.33193,56.01692 -33.85742,75 21.52549,18.98308 33.85712,46.29975 33.85742,75 v 100 c 0,55.22847 -44.77153,100 -100,100 z m 50,-50 h 50 c 27.61424,0 50,-22.38576 50,-50 V 350.05273 350 c 0,-27.61424 -22.38576,-50 -50,-50 H 50 c 0,66.66667 0,133.33333 0,200 z m 0,-250 h 50 c 27.61424,0 50,-22.38576 50,-50 V 100.05273 100 C 150,72.38576 127.61424,50 100,50 H 50 c 0,67.308 0,139.07377 0,200 z" />
       <glyph
          glyph-name="C"
          id="glyph512"
          unicode="C"
          horiz-adv-x="250"
-         d="M 100,550 A 100,-100 0 0 1 0,450 V 350 200 100 A 100,-100 0 0 1 100,0 100,-100 0 0 1 200,100 V 200 H 150 V 100.05273 A 50,-50 0 0 0 150,100 50,-50 0 0 0 100,50 50,-50 0 0 0 50,100 v 100 150 99.94727 A 50,-50 0 0 0 50,450 50,-50 0 0 0 99.94727,500 50,-50 0 0 0 100,500 50,-50 0 0 0 150,450 V 350 h 50 V 450 A 100,-100 0 0 1 100,550 Z" />
+         d="M 100,550 C 44.771525,550 0,505.22847 0,450 0,331.94406 0,203.74576 0,100 0,44.77153 44.771525,0 100,0 155.22847,0 200,44.77153 200,100 V 200 H 150 V 100.05273 100 c 0,-27.61424 -22.38576,-50 -50,-50 -27.614237,0 -50,22.38576 -50,50 0,118.03762 0,246.21704 0,349.94727 V 450 c -1.5e-5,27.59366 22.353627,49.9709 49.94727,50 H 100 c 27.61424,0 50,-22.38576 50,-50 V 350 h 50 v 100 c 0,55.22847 -44.77153,100 -100,100 z" />
       <glyph
          glyph-name="D"
          id="glyph597"
@@ -133,14 +147,50 @@
          glyph-name="E"
          id="glyph609"
          unicode="E"
-         d="M 0,550 V 500 0 H 50 200 V 50 H 50 v 200 h 100 v 50 H 50 v 200 h 150 v 50 H 50 Z"
+         d="M 0,550 C 0,366.66667 0,183.33333 0,0 66.666667,0 133.33333,0 200,0 V 50 H 50 v 200 h 100 v 50 H 50 v 200 h 150 v 50 c -66.66667,0 -133.333333,0 -200,0 z"
          horiz-adv-x="250" />
       <glyph
          glyph-name="F"
          id="glyph635"
          unicode="F"
          horiz-adv-x="250.0"
-         d="M 0,550 V 500 0 h 50 v 250 h 100 v 50 H 50 v 200 h 150 v 50 H 50 Z" />
+         d="M 0,550 C 0,366.66667 0,183.33333 0,0 h 50 v 250 h 100 v 50 H 50 v 200 h 150 v 50 c -66.66667,0 -133.333333,0 -200,0 z" />
+      <glyph
+         glyph-name="G"
+         id="glyph721"
+         unicode="G"
+         horiz-adv-x="250.0"
+         d="M 100,550 C 44.771525,550 0,505.22847 0,450 0,321.82314 0,223.97419 0,100 0,44.77153 44.771525,0 100,0 h 100 c 0,95.7213 0,161.94522 0,250 H 100 v -50 h 50 c 0,-52.17111 0,-96.50425 0,-150 H 100 C 72.385763,50 50,72.38576 50,100 v 349.94727 0.0527 c -1.5e-5,27.59366 22.353625,49.9709 49.947266,50 h 0.05273 c 27.614244,0 50.000004,-22.38576 50.000004,-50 v -100 h 50 V 450 c 0,55.22847 -44.77153,100 -100,100 z" />
+      <glyph
+         glyph-name="H"
+         id="glyph85"
+         unicode="H"
+         horiz-adv-x="250.0"
+         d="M 0,550 V 0 H 50 V 250 H 150 V 0 h 50 V 550 H 150 V 300 H 50 v 250 z" />
+      <glyph
+         glyph-name="I"
+         id="glyph89"
+         unicode="I"
+         horiz-adv-x="100"
+         d="M 0,550 H 50 V 0 H 0 Z" />
+      <glyph
+         glyph-name="J"
+         id="glyph114"
+         unicode="J"
+         horiz-adv-x="250"
+         d="m 150,550 c 0,-148.11736 0,-306.86247 0,-449.94727 V 100 C 150,72.38576 127.61424,50 100,50 72.385763,50 50,72.38576 50,100 v 50 c -16.666667,0 -33.333333,0 -50,0 V 100 C 0,44.77153 44.771525,0 100,0 155.22847,0 200,44.77153 200,100 v 450 z" />
+      <glyph
+         glyph-name="K"
+         id="glyph135"
+         unicode="K"
+         horiz-adv-x="250"
+         d="M 0,550 V 325 275 0 H 50 V 250 A 100,-250 0 0 0 150,0 h 50 A 150,-300 0 0 1 75.814453,295.52344 200,-275 0 0 1 200,550 H 150 A 150,-225 0 0 0 50,337.86914 V 550 Z" />
+      <glyph
+         glyph-name="L"
+         id="glyph150"
+         unicode="L"
+         horiz-adv-x="250"
+         d="M 0,550 C 0,366.66667 0,183.33333 0,0 66.666667,0 133.33333,0 200,0 V 50 H 50 v 500 z" />
     </font>
   </defs>
   <metadata
@@ -151,7 +201,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -161,22 +211,134 @@
      inkscape:label="Capital Letters">
     <g
        inkscape:groupmode="layer"
+       id="layer14"
+       inkscape:label="L">
+      <path
+         id="rect79"
+         d="m 0,450 c 0,183.33333 0,366.66667 0,550 66.666667,0 133.33333,0 200,0 V 950 H 50 V 450 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer8"
+       inkscape:label="K"
+       style="display:none">
+      <path
+         id="rect65"
+         d="m 0,450 c 0,191.29407 0,353.84892 0,550 H 50 V 750 c 55.22847,0 100,111.92881 100,250 h 50 C 199.99986,854.23368 147.61021,729.56241 75.814453,704.47656 150.933,662.16512 200.00018,561.61841 200,450 h -50 c -3.3e-4,95.35074 -40.06831,180.34728 -100,212.13086 V 450 Z"
+         sodipodi:nodetypes="cccccccccccc" />
+      <rect
+         id="rect67"
+         width="50"
+         height="550"
+         x="-350"
+         y="450" />
+      <rect
+         id="rect69"
+         width="50"
+         height="150"
+         x="-200"
+         y="850" />
+      <rect
+         id="rect71"
+         width="50"
+         height="100"
+         x="-250"
+         y="750" />
+      <rect
+         id="rect73"
+         width="50"
+         height="100"
+         x="-300"
+         y="650" />
+      <rect
+         id="rect75"
+         width="50"
+         height="100"
+         x="-250"
+         y="550" />
+      <rect
+         id="rect77"
+         width="50"
+         height="100"
+         x="-200"
+         y="450" />
+      <path
+         id="path79-3"
+         style="stroke-width:1.02151"
+         d="m 525,1050 v -50 A 100,250 0 0 0 625,750 h 50 a 150,300 0 0 1 -150,300 z" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         d="m 625,450 -125,275 50.45508,0.20703 125,-275 z"
+         id="path112"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer12"
+       inkscape:label="J"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path99"
+         d="m 150,450 c 0,148.11736 0,306.86247 0,449.94727 V 900 c 0,27.61424 -22.38576,50 -50,50 -27.614237,0 -50,-22.38576 -50,-50 v -50 c -16.666667,0 -33.333333,0 -50,0 v 50 c 0,55.22847 44.771525,100 100,100 55.22847,0 100,-44.77153 100,-100 V 450 Z"
+         sodipodi:nodetypes="ccsssccssscc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer11"
+       inkscape:label="I"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="rect91"
+         d="m 0,450 h 50 v 550 H 0 Z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="H"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="rect57"
+         style="stroke-width:0.919866"
+         d="m 0,450 v 550 H 50 V 750 h 100 v 250 h 50 V 450 H 150 V 700 H 50 V 450 Z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="G"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         d="M 100,450 C 44.771525,450 0,494.77153 0,550 c 0,128.17686 0,226.02581 0,350 0,55.22847 44.771525,100 100,100 h 100 c 0,-95.7213 0,-161.94522 0,-250 H 100 v 50 h 50 c 0,52.17111 0,96.50425 0,150 H 100 C 72.385763,950 50,927.61424 50,900 v -349.94727 -0.0527 c -1.5e-5,-27.59366 22.353625,-49.9709 49.947266,-50 h 0.05273 c 27.614244,0 50.000004,22.38576 50.000004,50 v 100 h 50 V 550 C 200,494.77153 155.22847,450 100,450 Z"
+         id="rect514-0"
+         sodipodi:nodetypes="sccsccccccsccssssccss" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer7"
-       inkscape:label="F">
+       inkscape:label="F"
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="rect600-6"
          style="display:inline"
-         d="m 0,450 v 50 500 H 50 V 750 H 150 V 700 H 50 V 500 H 200 V 450 H 50 Z"
-         sodipodi:nodetypes="ccccccccccccc" />
+         d="m 0,450 c 0,183.33333 0,366.66667 0,550 H 50 V 750 H 150 V 700 H 50 V 500 h 150 v -50 c -66.66667,0 -133.333333,0 -200,0 z"
+         sodipodi:nodetypes="ccccccccccc" />
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer6"
        inkscape:label="E"
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="rect600"
-         d="m 0,450 v 50 500 H 50 200 V 950 H 50 V 750 H 150 V 700 H 50 V 500 H 200 V 450 H 50 Z" />
+         d="m 0,450 c 0,183.33333 0,366.66667 0,550 66.666667,0 133.33333,0 200,0 V 950 H 50 V 750 H 150 V 700 H 50 V 500 h 150 v -50 c -66.66667,0 -133.333333,0 -200,0 z"
+         sodipodi:nodetypes="ccccccccccccc" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -196,7 +358,8 @@
        sodipodi:insensitive="true">
       <path
          id="rect514"
-         d="M 100,450 A 100,100 0 0 0 0,550 V 650 800 900 A 100,100 0 0 0 100,1000 100,100 0 0 0 200,900 V 800 h -50 v 99.94727 A 50,50 0 0 1 150,900 50,50 0 0 1 100,950 50,50 0 0 1 50,900 V 800 650 550.05273 A 50,50 0 0 1 50,550 50,50 0 0 1 99.94727,500 50,50 0 0 1 100,500 a 50,50 0 0 1 50,50 v 100 h 50 V 550 A 100,100 0 0 0 100,450 Z" />
+         d="M 100,450 C 44.771525,450 0,494.77153 0,550 c 0,118.05594 0,246.25424 0,350 0,55.22847 44.771525,100 100,100 55.22847,0 100,-44.77153 100,-100 V 800 H 150 V 899.94727 900 c 0,27.61424 -22.38576,50 -50,50 -27.614237,0 -50,-22.38576 -50,-50 0,-118.03762 0,-246.21704 0,-349.94727 V 550 c -1.5e-5,-27.59366 22.353627,-49.9709 49.94727,-50 H 100 c 27.61424,0 50,22.38576 50,50 v 100 h 50 V 550 C 200,494.77153 155.22847,450 100,450 Z"
+         sodipodi:nodetypes="sccsscccssccssssccss" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -207,17 +370,27 @@
       <path
          id="rect227"
          style="stroke-width:0.915475"
-         d="m 0,450 v 100 99.77539 A 100,100 0 0 0 0,650 v 150 99.77539 A 100,100 0 0 0 0,900 v 100 H 100 A 100,100 0 0 0 200,900 V 800 A 100,100 0 0 0 166.14258,725 100,100 0 0 0 200,650 V 550 A 100,100 0 0 0 100,450 Z m 50,50 h 50 a 50,50 0 0 1 50,50 v 99.94727 A 50,50 0 0 1 150,650 50,50 0 0 1 100,700 H 50 V 650.05273 A 50,50 0 0 1 50,650 V 550.05273 A 50,50 0 0 1 50,550 Z m 0,250 h 50 a 50,50 0 0 1 50,50 v 99.94727 A 50,50 0 0 1 150,900 50,50 0 0 1 100,950 H 50 V 900.05273 A 50,50 0 0 1 50,900 V 800.05273 A 50,50 0 0 1 50,800 Z" />
+         d="m 0,450 c 1.2331898e-7,180.34864 -4.063082e-7,376.77864 0,550 h 100 c 55.22847,0 100,-44.77153 100,-100 V 800 c -3e-4,-28.70025 -12.33193,-56.01692 -33.85742,-75 C 187.66807,706.01692 199.9997,678.70025 200,650 V 550 C 200,494.77153 155.22847,450 100,450 Z m 50,50 h 50 c 27.61424,0 50,22.38576 50,50 V 649.94727 650 c 0,27.61424 -22.38576,50 -50,50 H 50 c 0,-66.66667 0,-133.33333 0,-200 z m 0,250 h 50 c 27.61424,0 50,22.38576 50,50 V 899.94727 900 c 0,27.61424 -22.38576,50 -50,50 H 50 c 0,-67.308 0,-139.07377 0,-200 z"
+         sodipodi:nodetypes="ccsscccssccsscsscccsscsscc" />
     </g>
     <g
        id="layer1"
        inkscape:groupmode="layer"
        inkscape:label="A"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:none">
       <path
          id="rect66"
          d="M 100,450 A 100,100 0 0 0 0,550 v 450 H 50 V 750 h 100 v 250 h 50 V 550 A 100,100 0 0 0 100,450 Z m 0,50 a 50,50 0 0 1 0.0527,0 50,50 0 0 1 50,50 V 700 H 50.052734 V 550.05273 a 50,50 0 0 1 0,-0.0527 A 50,50 0 0 1 100,500 Z" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Missing Char"
+     style="display:none">
+    <path
+       id="rect146"
+       d="m 0,350 v 650 c 83.333333,0 166.66667,0 250,0 V 350 Z m 50,50 H 200 V 950 H 50 Z"
+       sodipodi:nodetypes="cccccccccc" />
   </g>
 </svg>
