@@ -23,9 +23,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="-145.28666"
-     inkscape:cy="670.82939"
+     inkscape:cy="790.82939"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer7"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -106,23 +106,41 @@
          d="M 0,650 V 0 H 250 V 650 Z M 50,600 H 200 V 50 H 50 Z"
          id="missing-glyph29" />
       <glyph
-         glyph-name="Capital A"
+         glyph-name="A"
          id="glyph81"
          unicode="A"
          d="M 100,550 A 100,-100 0 0 1 0,450 V 0 H 50 V 250 H 150 V 0 h 50 V 450 A 100,-100 0 0 1 100,550 Z m 0,-50 a 50,-50 0 0 0 0.0527,0 50,-50 0 0 0 50,-50 V 300 H 50.052734 v 149.94727 a 50,-50 0 0 0 0,0.0527 A 50,-50 0 0 0 100,500 Z"
          horiz-adv-x="250" />
       <glyph
-         glyph-name="Capital B"
+         glyph-name="B"
          id="glyph223"
          unicode="B"
          horiz-adv-x="250"
          d="M 0,550 V 450 350.22461 A 100,-100 0 0 1 0,350 V 200 100.22461 A 100,-100 0 0 1 0,100 V 0 H 100 A 100,-100 0 0 1 200,100 V 200 A 100,-100 0 0 1 166.14258,275 100,-100 0 0 1 200,350 V 450 A 100,-100 0 0 1 100,550 Z m 50,-50 h 50 a 50,-50 0 0 0 50,-50 V 350.05273 A 50,-50 0 0 0 150,350 50,-50 0 0 0 100,300 H 50 v 49.94727 A 50,-50 0 0 0 50,350 v 99.94727 A 50,-50 0 0 0 50,450 Z m 0,-250 h 50 a 50,-50 0 0 0 50,-50 V 100.05273 A 50,-50 0 0 0 150,100 50,-50 0 0 0 100,50 H 50 V 99.94727 A 50,-50 0 0 0 50,100 v 99.94727 A 50,-50 0 0 0 50,200 Z" />
       <glyph
-         glyph-name="Capital C"
+         glyph-name="C"
          id="glyph512"
          unicode="C"
          horiz-adv-x="250"
          d="M 100,550 A 100,-100 0 0 1 0,450 V 350 200 100 A 100,-100 0 0 1 100,0 100,-100 0 0 1 200,100 V 200 H 150 V 100.05273 A 50,-50 0 0 0 150,100 50,-50 0 0 0 100,50 50,-50 0 0 0 50,100 v 100 150 99.94727 A 50,-50 0 0 0 50,450 50,-50 0 0 0 99.94727,500 50,-50 0 0 0 100,500 50,-50 0 0 0 150,450 V 350 h 50 V 450 A 100,-100 0 0 1 100,550 Z" />
+      <glyph
+         glyph-name="D"
+         id="glyph597"
+         unicode="D"
+         horiz-adv-x="250"
+         d="M 0,550 V 0 H 100 A 100,-100 0 0 1 200,100 V 450 A 100,-100 0 0 1 100,550 Z m 50,-50 h 50 a 50,-50 0 0 0 50,-50 V 100.05273 A 50,-50 0 0 0 150,100 50,-50 0 0 0 100,50 H 50 V 99.94727 A 50,-50 0 0 0 50,100 V 449.94727 A 50,-50 0 0 0 50,450 Z" />
+      <glyph
+         glyph-name="E"
+         id="glyph609"
+         unicode="E"
+         d="M 0,550 V 500 0 H 50 200 V 50 H 50 v 200 h 100 v 50 H 50 v 200 h 150 v 50 H 50 Z"
+         horiz-adv-x="250" />
+      <glyph
+         glyph-name="F"
+         id="glyph635"
+         unicode="F"
+         horiz-adv-x="250.0"
+         d="M 0,550 V 500 0 h 50 v 250 h 100 v 50 H 50 v 200 h 150 v 50 H 50 Z" />
     </font>
   </defs>
   <metadata
@@ -143,8 +161,39 @@
      inkscape:label="Capital Letters">
     <g
        inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="F">
+      <path
+         id="rect600-6"
+         style="display:inline"
+         d="m 0,450 v 50 500 H 50 V 750 H 150 V 700 H 50 V 500 H 200 V 450 H 50 Z"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="E"
+       style="display:none">
+      <path
+         id="rect600"
+         d="m 0,450 v 50 500 H 50 200 V 950 H 50 V 750 H 150 V 700 H 50 V 500 H 200 V 450 H 50 Z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="D"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="rect539"
+         d="m 0,450 v 550 H 100 A 100,100 0 0 0 200,900 V 550 A 100,100 0 0 0 100,450 Z m 50,50 h 50 a 50,50 0 0 1 50,50 V 899.94727 A 50,50 0 0 1 150,900 50,50 0 0 1 100,950 H 50 V 900.05273 A 50,50 0 0 1 50,900 V 550.05273 A 50,50 0 0 1 50,550 Z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer3"
-       inkscape:label="C">
+       inkscape:label="C"
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="rect514"
          d="M 100,450 A 100,100 0 0 0 0,550 V 650 800 900 A 100,100 0 0 0 100,1000 100,100 0 0 0 200,900 V 800 h -50 v 99.94727 A 50,50 0 0 1 150,900 50,50 0 0 1 100,950 50,50 0 0 1 50,900 V 800 650 550.05273 A 50,50 0 0 1 50,550 50,50 0 0 1 99.94727,500 50,50 0 0 1 100,500 a 50,50 0 0 1 50,50 v 100 h 50 V 550 A 100,100 0 0 0 100,450 Z" />
@@ -153,7 +202,8 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="B"
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="rect227"
          style="stroke-width:0.915475"
@@ -163,7 +213,8 @@
        id="layer1"
        inkscape:groupmode="layer"
        inkscape:label="A"
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="rect66"
          d="M 100,450 A 100,100 0 0 0 0,550 v 450 H 50 V 750 h 100 v 250 h 50 V 550 A 100,100 0 0 0 100,450 Z m 0,50 a 50,50 0 0 1 0.0527,0 50,50 0 0 1 50,50 V 700 H 50.052734 V 550.05273 a 50,50 0 0 1 0,-0.0527 A 50,50 0 0 1 100,500 Z" />
