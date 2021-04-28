@@ -23,9 +23,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
      inkscape:cx="230.79735"
-     inkscape:cy="995.2364"
+     inkscape:cy="675.2364"
      inkscape:document-units="px"
-     inkscape:current-layer="layer23"
+     inkscape:current-layer="layer24"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -44,7 +44,7 @@
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-midpoints="true"
      inkscape:snap-others="true"
-     inkscape:object-paths="false"
+     inkscape:object-paths="true"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -52,7 +52,7 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-global="true"
      inkscape:snap-grids="true"
-     inkscape:object-nodes="false"
+     inkscape:object-nodes="true"
      inkscape:snap-intersection-paths="false"
      inkscape:snap-bbox-midpoints="false">
     <sodipodi:guide
@@ -238,6 +238,12 @@
          unicode="T"
          d="M 0,550 V 500 H 100 V 0 h 50 v 500 h 100 v 50 z"
          horiz-adv-x="300" />
+      <glyph
+         glyph-name="U"
+         id="glyph1424"
+         unicode="U"
+         horiz-adv-x="250"
+         d="M 0,550 V 100 C 0,44.77153 44.771525,0 100,0 155.22847,0 200,44.77153 200,100 V 550 H 150.05273 V 100.05273 100 c 0,-27.61424 -22.38576,-50 -50,-50 -27.614236,0 -49.999996,22.38576 -49.999996,50 V 549.94727 550 Z" />
     </font>
   </defs>
   <metadata
@@ -259,12 +265,25 @@
      style="display:inline">
     <g
        inkscape:groupmode="layer"
+       id="layer24"
+       inkscape:label="U"
+       style="display:inline">
+      <path
+         id="path937-6"
+         style="display:inline;fill:#000000;stroke-width:50;stroke-linejoin:bevel"
+         d="m 0,450 v 450 c 0,55.22847 44.771525,100 100,100 55.22847,0 100,-44.77153 100,-100 V 450 H 150.05273 V 899.94727 900 c 0,27.61424 -22.38576,50 -50,50 -27.614236,0 -49.999996,-22.38576 -49.999996,-50 V 450.05273 450 Z"
+         sodipodi:nodetypes="cssscccsssccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer23"
-       inkscape:label="T">
+       inkscape:label="T"
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="rect1417"
          style="fill:#000000;stroke-width:50;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:50;stroke-dasharray:none"
-         d="M 0 450 L 0 500 L 100 500 L 100 1000 L 150 1000 L 150 500 L 250 500 L 250 450 L 0 450 z " />
+         d="m 0,450 v 50 h 100 v 500 h 50 V 500 h 100 v -50 z" />
     </g>
     <g
        inkscape:groupmode="layer"
