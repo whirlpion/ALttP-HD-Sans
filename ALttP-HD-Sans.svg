@@ -22,10 +22,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="177.39481"
-     inkscape:cy="727.47423"
+     inkscape:cx="286.47006"
+     inkscape:cy="930.14435"
      inkscape:document-units="px"
-     inkscape:current-layer="layer43"
+     inkscape:current-layer="layer47"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -365,6 +365,30 @@
          unicode="n"
          horiz-adv-x="250"
          d="M 0,400 -5e-7,0 H 50 V 13.39844 300 c 0,27.61424 22.38576,50 50,50 27.61424,0 50,-22.38576 50,-50 V 0 h 50 v 300 c 0,55.22847 -44.77153,100 -100,100 -17.553761,-3e-4 -34.79817,-4.62134 -50,-13.39844 V 400 Z" />
+      <glyph
+         glyph-name="o"
+         id="glyph1248"
+         unicode="o"
+         horiz-adv-x="250"
+         d="M 100,400 A 100,-100 0 0 1 0,300 V 100 A 100,-100 0 0 1 100,0 100,-100 0 0 1 200,100 V 300 A 100,-100 0 0 1 100,400 Z m -0.05273,-50 A 50,-50 0 0 0 100,350 50,-50 0 0 0 150,300 V 100.05273 A 50,-50 0 0 0 150,100 50,-50 0 0 0 100,50 50,-50 0 0 0 50,100 V 299.94727 A 50,-50 0 0 0 50,300 50,-50 0 0 0 99.947266,350 Z" />
+      <glyph
+         glyph-name="p"
+         id="glyph1274"
+         unicode="p"
+         d="M 50,-100 V 13.39844 C 65.20183,4.62134 82.44624,3e-4 100,0 155.22847,0 200,44.77153 200,100 v 200 c 0,55.22847 -44.77153,100 -100,100 -17.55376,-3e-4 -34.79817,-4.62126 -50,-13.39844 V 400 H 0 V -100 Z M 100,50 C 72.38576,50 50,72.38576 50,100 v 200 c 0,27.61424 22.38576,50 50,50 27.61424,0 50,-22.38576 50,-50 V 100 C 150,72.38576 127.61424,50 100,50 Z"
+         horiz-adv-x="250" />
+      <glyph
+         glyph-name="q"
+         id="glyph1297"
+         unicode="q"
+         horiz-adv-x="250"
+         d="M 150,-99.9999 V 13.39846 C 134.79817,4.62136 117.55376,2.6e-4 100,0 44.77153,0 0,44.77153 0,100 v 200 c 0,55.22847 44.77153,100 100,100 17.55376,-3e-4 34.79817,-4.62126 50,-13.39844 V 400 h 50 V -99.9999 Z M 100,50 c 27.61424,0 50,22.38576 50,50 v 200 c 0,27.61424 -22.38576,50 -50,50 -27.61424,0 -50,-22.38576 -50,-50 V 100 C 50,72.38576 72.38576,50 100,50 Z" />
+      <glyph
+         glyph-name="r"
+         id="glyph1300"
+         unicode="r"
+         horiz-adv-x="200"
+         d="m 5e-7,399.99998 v -150 V 1e-5 H 50 v 249.99997 a 100,-100 0 0 0 100,100 v 50 A 150,-150 0 0 1 50,361.80271 v 38.19727 z" />
     </font>
   </defs>
   <metadata
@@ -386,12 +410,69 @@
      style="display:inline">
     <g
        inkscape:groupmode="layer"
+       id="layer47"
+       inkscape:label="r">
+      <path
+         id="path1322"
+         style="fill:#000000;fill-opacity:0.998531;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 5e-7,600.00002 v 150 249.99997 H 50 V 750.00002 a 100,100 0 0 1 100,-100 v -50 A 150,150 0 0 0 50,638.19729 v -38.19727 z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer46"
+       inkscape:label="q"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path1829-8-6-2"
+         style="display:inline;fill:#000000;fill-opacity:0.960957;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 150,1099.9999 V 986.60154 C 134.79817,995.37864 117.55376,999.99974 100,1000 44.77153,1000 0,955.22847 0,900 V 700 c 0,-55.22847 44.77153,-100 100,-100 17.55376,3e-4 34.79817,4.62126 50,13.39844 V 600 h 50 v 499.9999 z M 100,950 c 27.61424,0 50,-22.38576 50,-50 V 700 c 0,-27.61424 -22.38576,-50 -50,-50 -27.61424,0 -50,22.38576 -50,50 v 200 c 0,27.61424 22.38576,50 50,50 z"
+         sodipodi:nodetypes="cccccccccccsccsccs" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer45"
+       inkscape:label="p"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path1829-8-6"
+         style="display:inline;fill:#000000;fill-opacity:0.960957;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 50,1100 V 986.60156 c 15.20183,8.7771 32.44624,13.39814 50,13.39844 55.22847,0 100,-44.77153 100,-100 V 700 c 0,-55.22847 -44.77153,-100 -100,-100 -17.55376,3e-4 -34.79817,4.62126 -50,13.39844 V 600 H 0 v 500 z M 100,950 C 72.38576,950 50,927.61424 50,900 V 700 c 0,-27.61424 22.38576,-50 50,-50 27.61424,0 50,22.38576 50,50 v 200 c 0,27.61424 -22.38576,50 -50,50 z"
+         sodipodi:nodetypes="cccccccccccsccsccs" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer44"
+       inkscape:label="o"
+       sodipodi:insensitive="true"
+       style="display:none">
+      <g
+         inkscape:groupmode="layer"
+         id="layer33"
+         inkscape:label="c"
+         style="display:none"
+         sodipodi:insensitive="true">
+        <path
+           id="path2063"
+           style="fill:#000000;fill-opacity:0.960957;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 100,600 A 100,100 0 0 0 0,700 V 900 H 0.02734375 A 100,100 0 0 0 100.02734,1000 100,100 0 0 0 200.02539,900 v -50 h -50 v 50 a 50,50 0 0 1 -50,50 50,50 0 0 1 -0.05078,0 50,50 0 0 1 -49.947265,-50 V 700 H 50 a 50,50 0 0 1 49.947266,-50 50,50 0 0 1 0.05273,0 A 50,50 0 0 1 150,700 v 50 h 50 V 700 A 100,100 0 0 0 100,600 Z" />
+      </g>
+      <path
+         id="path1194"
+         style="fill:#000000;fill-opacity:0.998531;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 100,600 A 100,100 0 0 0 0,700 V 900 A 100,100 0 0 0 100,1000 100,100 0 0 0 200,900 V 700 A 100,100 0 0 0 100,600 Z m -0.05273,50 A 50,50 0 0 1 100,650 50,50 0 0 1 150,700 V 899.94727 A 50,50 0 0 1 150,900 50,50 0 0 1 100,950 50,50 0 0 1 50,900 V 700.05273 A 50,50 0 0 1 50,700 50,50 0 0 1 99.947266,650 Z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer43"
-       inkscape:label="n">
+       inkscape:label="n"
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="path1829-8-19-5"
          style="display:inline;fill:#000000;fill-opacity:0.960957;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 0,600 -5e-7,400 H 50 V 986.60156 700 c 0,-27.61424 22.38576,-50 50,-50 27.61424,0 50,22.38576 50,50 v 300 h 50 V 700 c 0,-55.22847 -44.77153,-100 -100,-100 -17.553761,3e-4 -34.79817,4.62134 -50,13.39844 L 50,600 Z"
+         d="m 0,600 -5e-7,400 H 50 V 986.60156 700 c 0,-27.61424 22.38576,-50 50,-50 27.61424,0 50,22.38576 50,50 v 300 h 50 V 700 c 0,-55.22847 -44.77153,-100 -100,-100 -17.553761,3e-4 -34.79817,4.62134 -50,13.39844 V 600 Z"
          sodipodi:nodetypes="cccccssccscccc" />
     </g>
     <g
@@ -520,17 +601,6 @@
          style="display:inline;fill:#000000;fill-opacity:0.960957;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 150,450 c 0,54.46615 0,108.93229 0,163.39844 C 134.79817,604.62134 117.55376,600.0003 100,600 44.77153,600 5e-7,644.77153 5e-7,700 c 0,68.56788 0,140.75383 0,200 0,55.22847 44.7715295,100 99.9999995,100 17.55376,-3e-4 34.79817,-4.62126 50,-13.39844 V 1000 h 50 c 0,-184.91914 0,-379.7633 0,-550 z m -50,200 c 27.61424,0 50,22.38576 50,50 0,68.56788 0,140.75383 0,200 0,27.61424 -22.38576,50 -50,50 -27.614239,0 -50,-22.38576 -50,-50 0,-68.56788 0,-140.75383 0,-200 0,-27.61424 22.385761,-50 50,-50 z"
          sodipodi:nodetypes="cccccccccccsccsccs" />
-    </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer33"
-       inkscape:label="c"
-       style="display:none"
-       sodipodi:insensitive="true">
-      <path
-         id="path2063"
-         style="fill:#000000;fill-opacity:0.960957;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 100,600 A 100,100 0 0 0 0,700 V 900 H 0.02734375 A 100,100 0 0 0 100.02734,1000 100,100 0 0 0 200.02539,900 v -50 h -50 v 50 a 50,50 0 0 1 -50,50 50,50 0 0 1 -0.05078,0 50,50 0 0 1 -49.947265,-50 V 700 H 50 a 50,50 0 0 1 49.947266,-50 50,50 0 0 1 0.05273,0 A 50,50 0 0 1 150,700 v 50 h 50 V 700 A 100,100 0 0 0 100,600 Z" />
     </g>
     <g
        inkscape:groupmode="layer"
