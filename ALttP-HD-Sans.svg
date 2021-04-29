@@ -21,11 +21,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="40.031068"
-     inkscape:cy="779.51291"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="77.604369"
+     inkscape:cy="938.99822"
      inkscape:document-units="px"
-     inkscape:current-layer="layer53"
+     inkscape:current-layer="layer54"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -42,13 +42,13 @@
      inkscape:snap-perpendicular="true"
      inkscape:snap-to-guides="false"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="false"
-     inkscape:snap-others="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-others="false"
      inkscape:object-paths="true"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-nodes="true"
      inkscape:snap-global="true"
      inkscape:snap-grids="true"
@@ -425,6 +425,12 @@
          unicode="x"
          horiz-adv-x="300"
          d="M 0,400 100,200 0,0 H 50 L 125,150 200,0 h 50 L 150,200 250,400 H 200 L 125,250 50,400 Z" />
+      <glyph
+         glyph-name="y"
+         id="glyph1741"
+         unicode="y"
+         horiz-adv-x="300"
+         d="M 0,400 99.408203,2.36328 C 97.034058,-6.5847 94.443992,-16.3734 90.869141,-29.9883 89.386837,-35.6337 78.47761,-50.0605 66.357422,-50.0605 H 0 v -50 h 66.357422 c 35.551988,0 65.326588,24.7366 73.050778,57.9375 L 150,0 250,400 H 200 L 125,100 50,400 Z" />
     </font>
   </defs>
   <metadata
@@ -446,8 +452,20 @@
      style="display:inline">
     <g
        inkscape:groupmode="layer"
+       id="layer54"
+       inkscape:label="y"
+       style="display:inline">
+      <path
+         id="path1526-1"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 0 600 L 99.408203 997.63672 C 97.034058 1006.5847 94.443992 1016.3734 90.869141 1029.9883 C 89.386837 1035.6337 78.47761 1050.0605 66.357422 1050.0605 L 0 1050.0605 L 0 1100.0605 L 66.357422 1100.0605 C 101.90941 1100.0605 131.68401 1075.3239 139.4082 1042.123 L 150 1000 L 250 600 L 200 600 L 125 900 L 50 600 L 0 600 z " />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer53"
-       inkscape:label="x">
+       inkscape:label="x"
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="rect1554"
          style="fill:#000000;fill-opacity:0.543628;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
