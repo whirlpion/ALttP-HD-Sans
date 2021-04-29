@@ -22,10 +22,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="281.40749"
-     inkscape:cy="669.97178"
+     inkscape:cx="28.914138"
+     inkscape:cy="844.22199"
      inkscape:document-units="px"
-     inkscape:current-layer="layer27"
+     inkscape:current-layer="layer29"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -48,12 +48,12 @@
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
-     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-global="true"
      inkscape:snap-grids="true"
-     inkscape:object-nodes="false"
-     inkscape:snap-intersection-paths="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
      inkscape:snap-bbox-midpoints="false">
     <sodipodi:guide
        id="guide_top"
@@ -101,13 +101,6 @@
        type="xygrid"
        id="grid48"
        empspacing="25" />
-    <sodipodi:guide
-       position="0,400"
-       orientation="0,1"
-       id="guide1551"
-       inkscape:label="x-line"
-       inkscape:locked="true"
-       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -269,6 +262,18 @@
          unicode="X"
          horiz-adv-x="300"
          d="M 0,550 C 32.914268,458.3343 65.823573,366.66676 98.73496,275 65.820906,183.33421 32.915814,91.66517 0,10e-6 H 52.530083 C 76.685793,67.28292 100.8431,134.56518 125,201.84766 149.15579,134.56478 173.31435,67.28298 197.46992,10e-6 H 250 C 217.08575,91.66574 184.17643,183.33323 151.26504,275 184.17911,366.66578 217.08417,458.33487 250,550 H 197.46992 C 173.31421,482.7171 149.1569,415.4348 125,348.15234 100.84421,415.4352 76.685651,482.71705 52.530083,550 Z" />
+      <glyph
+         glyph-name="Y"
+         id="glyph1703"
+         unicode="Y"
+         horiz-adv-x="300"
+         d="M 0,550 100,150 V 0 h 50 V 150 L 250,550 H 200 L 125,250 50,550 Z" />
+      <glyph
+         glyph-name="Z"
+         id="glyph1771"
+         unicode="Z"
+         horiz-adv-x="250"
+         d="M 200,0 V 50 H 50 v 50 l 150,400 v 50 H 0 V 500 H 150 L 0,100 V 0 Z" />
     </font>
   </defs>
   <metadata
@@ -290,8 +295,48 @@
      style="display:inline">
     <g
        inkscape:groupmode="layer"
+       id="layer29"
+       inkscape:label="Z">
+      <path
+         id="rect1774"
+         style="fill:#000000;fill-opacity:0.39182469;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-opacity:1"
+         d="M 0 450 L 0 500 L 150 500 L 150 550 L 200 550 L 200 500 L 200 450 L 0 450 z M 150 550 L 100 550 L 100 700 L 150 700 L 150 550 z M 100 700 L 50 700 L 50 850 L 100 850 L 100 700 z M 50 850 L 0 850 L 0 950 L 0 1000 L 50 1000 L 200 1000 L 200 950 L 50 950 L 50 850 z " />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 200,1000 V 950 H 50 V 900 L 200,500 V 450 H 0 v 50 H 150 L 0,900 v 100 z"
+         id="path1806"
+         sodipodi:nodetypes="cccccccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer28"
+       inkscape:label="Y"
+       sodipodi:insensitive="true"
+       style="display:none">
+      <path
+         id="rect1705"
+         style="fill:#000000;fill-opacity:0.635133;stroke-width:50;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 0,450 V 600 H 50 V 450 Z m 50,150 v 150 h 50 V 600 Z m 50,150 v 250 h 50 V 750 Z m 50,0 h 50 V 600 h -50 z m 50,-150 h 50 V 450 h -50 z" />
+      <path
+         id="path1716"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         d="m -300,450 a 25,25 0 0 0 0.5957,5.42383 L -200,902.74414 V 1000 h 50 V 902.74414 L -50.5957,455.42383 A 25,25 0 0 0 -50,450 h -50.60938 L -175,784.75586 -249.39062,450 Z" />
+      <path
+         id="path1727"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.996936;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         d="m -575,450 c 33.33244,134.15452 66.66651,268.30863 100,402.46289 V 1000 h 50 V 852.46289 C -391.6735,718.3069 -358.32312,584.15683 -325,450 h -51.22461 L -450,746.92188 -523.77539,450 Z"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         id="path1750"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 0,450 100,400 v 150 h 50 V 850 L 250,450 H 200 L 125,750 50,450 Z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer27"
-       inkscape:label="X">
+       inkscape:label="X"
+       style="display:none"
+       sodipodi:insensitive="true">
       <rect
          style="fill:#000000;fill-opacity:0.635133;stroke-width:50;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1576"
