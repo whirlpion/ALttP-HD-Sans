@@ -22,10 +22,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="285.15027"
-     inkscape:cy="878.37762"
+     inkscape:cx="18.285834"
+     inkscape:cy="525.78567"
      inkscape:document-units="px"
-     inkscape:current-layer="layer67"
+     inkscape:current-layer="layer70"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -99,6 +99,13 @@
        orientation="0,1"
        id="guide1810"
        inkscape:label="x-line"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,550"
+       orientation="0,1"
+       id="guide1769"
+       inkscape:label="caps"
        inkscape:locked="true"
        inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
@@ -495,6 +502,36 @@
          unicode="*"
          horiz-adv-x="300"
          d="m 99.484515,349.48451 c 0,-21.13334 0,-42.26668 0,-63.40002 L 54.65498,330.91402 c -36.08449,-36.08448 0,0 -36.08449,-36.08448 L 63.40002,250 C 42.26668,250 21.13334,250 0,250 c 0,-51.03098 0,0 0,-51.03098 21.13334,0 42.26668,0 63.40002,0 L 18.57049,154.13949 c 36.08449,-36.08448 0,0 36.08449,-36.08448 l 44.829535,44.82952 c 0,-21.13333 0,-42.26667 0,-63.40002 51.030975,0 0,0 51.030975,0 0,21.13334 0,42.26668 0,63.40002 L 195.34501,118.055 c 36.0845,36.08449 0,0 36.0845,36.08449 l -44.82953,44.82953 c 21.13334,0 42.26669,0 63.40002,0 0,51.03098 0,0 0,51.03098 -21.13333,0 -42.26668,0 -63.40001,0 l 44.82953,44.82953 c -36.08449,36.08448 0,0 -36.08449,36.08448 L 150.5155,286.08449 c 0,21.13334 0,42.26668 0,63.40002 -51.030985,0 0,0 -51.030985,0 z" />
+      <glyph
+         glyph-name="+"
+         id="glyph1721"
+         unicode="+"
+         horiz-adv-x="300.0"
+         d="M 100,350 V 250 H 0 V 200 H 100 V 100 h 50 v 100 h 100 v 50 H 150 v 100 z" />
+      <glyph
+         glyph-name=","
+         id="glyph1723"
+         unicode=","
+         d="M 49.94727,100 C 22.35362,99.9709 -2e-5,77.59366 0,50 0,22.38576 22.38576,0 50,0 v -24.832 c 1.9e-4,-0.056 1.9e-4,-0.112 0,-0.168 0,-13.8071 -11.19288,-25 -25,-25 H 0 c 0,-16.5186 0,-34.9796 0,-50 h 25 c 41.42136,0 75,33.5786 75,75 0,25 0,50 0,75 0,27.61424 -22.38576,50 -50,50 h -0.0527 z"
+         horiz-adv-x="150" />
+      <glyph
+         glyph-name="-"
+         id="glyph1749"
+         unicode="-"
+         horiz-adv-x="250"
+         d="M 0,250 H 200 V 200 H 0 Z" />
+      <glyph
+         glyph-name="."
+         id="glyph1756"
+         unicode="."
+         horiz-adv-x="150"
+         d="M 100,50 A 50,-50 0 0 0 50,0 50,-50 0 0 0 0,50 50,-50 0 0 0 50,100 50,-50 0 0 0 100,50 Z" />
+      <glyph
+         glyph-name="/"
+         id="glyph1765"
+         unicode="/"
+         horiz-adv-x="300"
+         d="M 193.59375,550 C 126.91586,366.67075 63.48035,183.32722 -3.20313,0 H 50 c 66.67786,183.32926 130.11342,366.67277 196.79687,550 z" />
     </font>
   </defs>
   <metadata
@@ -515,12 +552,70 @@
      inkscape:label="Punctuation">
     <g
        inkscape:groupmode="layer"
+       id="layer72"
+       inkscape:label="/"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path1771"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+         d="M 193.59375,450 C 126.91586,633.32925 63.48035,816.67278 -3.20313,1000 H 50 C 116.67786,816.67074 180.11342,633.32723 246.79687,450 Z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer71"
+       inkscape:label="."
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path1761"
+         style="fill:#000000;fill-opacity:1;stroke-width:50;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 100,950 a 50,50 0 0 1 -50,50 50,50 0 0 1 -50,-50 50,50 0 0 1 50,-50 50,50 0 0 1 50,50 z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer70"
+       inkscape:label="-"
+       style="display:inline">
+      <path
+         id="rect1747"
+         style="fill:#000000;fill-opacity:1;stroke-width:50;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 0,750 h 200 v 50 H 0 Z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer69"
+       inkscape:label=","
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="path1565-7"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:50;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 49.94727,900 C 22.35362,900.0291 -2e-5,922.40634 0,950 c 0,27.61424 22.38576,50 50,50 v 24.832 c 1.9e-4,0.056 1.9e-4,0.112 0,0.168 0,13.8071 -11.19288,25 -25,25 H 0 c 0,16.5186 0,34.9796 0,50 h 25 c 41.42136,0 75,-33.5786 75,-75 0,-25 0,-50 0,-75 0,-27.61424 -22.38576,-50 -50,-50 h -0.0527 z"
+         sodipodi:nodetypes="sscccsccsccscs" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer68"
+       inkscape:label="+"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         id="rect1716"
+         style="fill:#000000;fill-opacity:1;stroke-width:50;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 100,650 V 750 H 0 v 50 h 100 v 100 h 50 V 800 H 250 V 750 H 150 V 650 Z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer67"
-       inkscape:label="*">
+       inkscape:label="*"
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="rect1648"
          style="fill:#000000;fill-opacity:0.579087;stroke-width:50;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
-         d="M 0 650 L 0 700 L 50 700 L 50 650 L 0 650 z M 50 700 L 50 750 L 0 750 L 0 800 L 50 800 L 50 850 L 100 850 L 100 900 L 150 900 L 150 850 L 200 850 L 200 800 L 250 800 L 250 750 L 200 750 L 200 700 L 150 700 L 150 650 L 100 650 L 100 700 L 50 700 z M 200 700 L 250 700 L 250 650 L 200 650 L 200 700 z M 200 850 L 200 900 L 250 900 L 250 850 L 200 850 z M 50 850 L 0 850 L 0 900 L 50 900 L 50 850 z " />
+         d="m 0,650 v 50 h 50 v -50 z m 50,50 v 50 H 0 v 50 h 50 v 50 h 50 v 50 h 50 v -50 h 50 v -50 h 50 v -50 h -50 v -50 h -50 v -50 h -50 v 50 z m 150,0 h 50 v -50 h -50 z m 0,150 v 50 h 50 V 850 Z M 50,850 H 0 v 50 h 50 z" />
       <path
          id="path1672"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02062;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
@@ -531,7 +626,8 @@
        inkscape:groupmode="layer"
        id="g1644"
        inkscape:label=")"
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="path1642"
          style="fill:#000000;fill-opacity:0.579087;stroke-width:50;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
@@ -541,7 +637,8 @@
        inkscape:groupmode="layer"
        id="layer66"
        inkscape:label="("
-       style="display:none">
+       style="display:none"
+       sodipodi:insensitive="true">
       <path
          id="path1632"
          style="fill:#000000;fill-opacity:1;stroke-width:50;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
@@ -990,7 +1087,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Capital Letters"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer29"
