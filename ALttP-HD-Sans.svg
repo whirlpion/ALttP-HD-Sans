@@ -21,11 +21,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="54.749514"
-     inkscape:cy="738.35112"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="122.34269"
+     inkscape:cy="652.32532"
      inkscape:document-units="px"
-     inkscape:current-layer="layer57"
+     inkscape:current-layer="layer61"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -448,6 +448,37 @@
          unicode="!"
          horiz-adv-x="100"
          d="M 24.832031,1.4e-4 A 25,-25 0 0 0 0,25.00014 25,-25 0 0 0 0,25.16811 v 49.83203 a 25,-25 0 0 0 25,25 25,-25 0 0 0 25,-25 25,-25 0 0 0 0,-0.16797 V 25.00014 a 25,-25 0 0 0 -25,-25 25,-25 0 0 0 -0.167969,0 z M 0,150.00014 v 400 h 50 v -400 z" />
+      <glyph
+         glyph-name="&quot;"
+         id="glyph1217"
+         unicode="&quot;"
+         d="M 24.832031,600 A 25,-25 0 0 1 0,575 25,-25 0 0 1 0,574.83203 V 525 a 25,-25 0 0 1 25,-25 25,-25 0 0 1 25,25 25,-25 0 0 1 0,0.16797 V 575 a 25,-25 0 0 1 -25,25 25,-25 0 0 1 -0.167969,0 z m 99.999999,0 A 25,-25 0 0 1 100,575 a 25,-25 0 0 1 0,-0.16797 V 525 a 25,-25 0 0 1 25,-25 25,-25 0 0 1 25,25 25,-25 0 0 1 0,0.16797 V 575 a 25,-25 0 0 1 -25,25 25,-25 0 0 1 -0.16797,0 z"
+         horiz-adv-x="200" />
+      <glyph
+         glyph-name="#"
+         id="glyph1230"
+         unicode="#"
+         horiz-adv-x="300"
+         d="M 50,550 V 400 H 0 V 350 H 50 V 200 H 0 V 150 H 50 V 0 h 50 v 150 h 50 V 0 h 50 v 150 h 50 v 50 h -50 v 150 h 50 v 50 H 200 V 550 H 150 V 400 h -50 v 150 z m 50,-200 h 50 V 200 h -50 z" />
+    </font>
+    <font
+       horiz-adv-x="1024"
+       id="font1274"
+       inkscape:label="font 1">
+      <font-face
+         units-per-em="1024"
+         id="font-face1276"
+         font-family="SVGFont 1"
+         ascent="0" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph1278" />
+      <glyph
+         glyph-name="ij"
+         id="glyph1280"
+         unicode="ij"
+         horiz-adv-x="200"
+         d="M 24.832031,574 A 25,-25 0 0 1 0,549 25,-25 0 0 1 0,548.83203 V 499 a 25,-25 0 0 1 25,-25 25,-25 0 0 1 25,25 25,-25 0 0 1 0,0.16797 V 549 a 25,-25 0 0 1 -25,25 25,-25 0 0 1 -0.167969,0 z m 99.999999,0 A 25,-25 0 0 1 100,549 a 25,-25 0 0 1 0,-0.16797 V 499 a 25,-25 0 0 1 25,-25 25,-25 0 0 1 25,25 25,-25 0 0 1 0,0.16797 V 549 a 25,-25 0 0 1 -25,25 25,-25 0 0 1 -0.16797,0 z M 0,424 V 24 h 50 v 400 z m 100,0 V 24 A 50,-50 0 0 0 50,-26 H 0 V -76 H 50 A 100,-100 0 0 1 150,24 v 400 z" />
     </font>
   </defs>
   <metadata
@@ -468,12 +499,49 @@
      inkscape:label="Punctuation">
     <g
        inkscape:groupmode="layer"
+       id="layer59"
+       inkscape:label="#"
+       style="display:none">
+      <path
+         id="rect1221"
+         style="fill:#000000;fill-opacity:1;stroke-width:50;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 50,450 V 600 H 0 v 50 H 50 V 800 H 0 v 50 h 50 v 150 h 50 V 850 h 50 v 150 h 50 V 850 h 50 V 800 H 200 V 650 h 50 V 600 H 200 V 450 H 150 V 600 H 100 V 450 Z m 50,200 h 50 v 150 h -50 z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer58"
+       inkscape:label="&quot;"
+       sodipodi:insensitive="true"
+       style="display:none">
+      <path
+         id="path1161"
+         style="fill:#000000;fill-opacity:1;stroke-width:50;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 24.832031,400 A 25,25 0 0 0 0,425 25,25 0 0 0 0,425.16797 V 475 a 25,25 0 0 0 25,25 25,25 0 0 0 25,-25 25,25 0 0 0 0,-0.16797 V 425 a 25,25 0 0 0 -25,-25 25,25 0 0 0 -0.167969,0 z m 99.999999,0 A 25,25 0 0 0 100,425 a 25,25 0 0 0 0,0.16797 V 475 a 25,25 0 0 0 25,25 25,25 0 0 0 25,-25 25,25 0 0 0 0,-0.16797 V 425 a 25,25 0 0 0 -25,-25 25,25 0 0 0 -0.16797,0 z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer57"
-       inkscape:label="!">
+       inkscape:label="!"
+       sodipodi:insensitive="true"
+       style="display:none">
       <path
          id="rect2342-36"
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 24.832031,999.99986 A 25,-25 0 0 1 0,974.99986 25,-25 0 0 1 0,974.83189 v -49.83203 a 25,-25 0 0 1 25,-25 25,-25 0 0 1 25,25 25,-25 0 0 1 0,0.16797 v 49.83203 a 25,-25 0 0 1 -25,25 25,-25 0 0 1 -0.167969,0 z M 0,849.99986 v -400 h 50 v 400 z" />
+         d="M 24.832031,999.99986 A 25,25 0 0 1 0,974.99986 25,25 0 0 1 0,974.83189 v -49.83203 a 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 25,25 0 0 1 0,0.16797 v 49.83203 a 25,25 0 0 1 -25,25 25,25 0 0 1 -0.167969,0 z M 0,849.99986 v -400 h 50 v 400 z" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer60"
+     inkscape:label="Ligatures">
+    <g
+       inkscape:groupmode="layer"
+       id="layer61"
+       inkscape:label="ij">
+      <path
+         id="rect2342-3-5"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 24.832031 450 A 25 25 0 0 0 0 475 A 25 25 0 0 0 0 475.16797 L 0 525 A 25 25 0 0 0 25 550 A 25 25 0 0 0 50 525 A 25 25 0 0 0 50 524.83203 L 50 475 A 25 25 0 0 0 25 450 A 25 25 0 0 0 24.832031 450 z M 124.83203 450 A 25 25 0 0 0 100 475 A 25 25 0 0 0 100 475.16797 L 100 525 A 25 25 0 0 0 125 550 A 25 25 0 0 0 150 525 A 25 25 0 0 0 150 524.83203 L 150 475 A 25 25 0 0 0 125 450 A 25 25 0 0 0 124.83203 450 z M 0 600 L 0 1000 L 50 1000 L 50 600 L 0 600 z M 100 600 L 100 1000 A 50 50 0 0 1 50 1050 L 0 1050 L 0 1100 L 50 1100 A 100 100 0 0 0 150 1000 L 150 600 L 100 600 z " />
     </g>
   </g>
   <g
