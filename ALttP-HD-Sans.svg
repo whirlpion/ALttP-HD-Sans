@@ -21,11 +21,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="211.32167"
-     inkscape:cy="510.61571"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="430.25975"
+     inkscape:cy="728.56027"
      inkscape:document-units="px"
-     inkscape:current-layer="layer95"
+     inkscape:current-layer="layer96"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -670,6 +670,12 @@
          unicode="^"
          horiz-adv-x="350"
          d="M 150,550 0,400 35.355469,364.64453 150,479.28906 264.64453,364.64453 300,400 Z" />
+      <glyph
+         glyph-name="Underscore"
+         id="glyph1588"
+         unicode="_"
+         horiz-adv-x="300"
+         d="M 0,0 H 250 V -50 H 0 Z" />
     </font>
   </defs>
   <metadata
@@ -935,12 +941,22 @@
      style="display:inline">
     <g
        inkscape:groupmode="layer"
+       id="layer96"
+       inkscape:label="_">
+      <path
+         id="rect1590"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 0,1000 h 250 v 50 H 0 Z" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
        id="layer95"
-       inkscape:label="^">
+       inkscape:label="^"
+       style="display:none">
       <path
          id="path1531"
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 150 450 L 0 600 L 35.355469 635.35547 L 150 520.71094 L 264.64453 635.35547 L 300 600 L 150 450 z " />
+         d="M 150,450 0,600 35.355469,635.35547 150,520.71094 264.64453,635.35547 300,600 Z" />
     </g>
     <g
        inkscape:groupmode="layer"
