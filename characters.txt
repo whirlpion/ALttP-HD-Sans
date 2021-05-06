@@ -1,14 +1,22 @@
-! " # $ % ' ( ) * + , - . / 0 1 2 3 4
+! " # $ % & ' ( ) /* + , - . / 0 1 2 3 4
 5 6 7 8 9 : ; < = > ? @ A B C D E F G H
 I J K L M N O P Q R S T U V W X Y Z [ \
-] ^ _ ' a b c d e f g h i j k l m n o p
+] ^ _  a b c d e f g h i j k l m n o p
 q r s t u v w x y z { | } ~ 
 
-#include <stdint.h>
+std::string hi = "hello, world";
 
-int32_t foo = 12;
+char c = 'a';
 
-int main(int argc, char** argv)
-{
-    printf("hello world\n!");
-}
+printf("%s", hi.c_str());
+
+Maxime occaecati quo consectetur unde dignissimos laudantium iusto reiciendis. Rem fuga provident necessitatibus dolorem et. Officiis aspernatur dicta deserunt quod molestias autem. Porro qui dolore sunt eum error a aliquam accusamus. Cupiditate cumque quos numquam ipsum voluptas dolores in quis. Corporis quam nobis deserunt explicabo modi est qui.
+
+Totam ut et esse harum. Dolore at consequuntur deserunt ipsa qui. At porro nesciunt architecto. Id nihil deleniti cupiditate exercitationem. Nisi accusamus deleniti consequatur. Sapiente consectetur eius facere aut quaerat.
+
+Aspernatur in tenetur sit commodi ipsa reiciendis sequi. Tenetur voluptatem esse ut accusamus et et eos quisquam. Laudantium totam aut voluptatem rerum similique. Vel voluptas deleniti unde est eius aliquid tenetur quia. Vel ut consectetur voluptatem quod provident distinctio est. Id similique molestiae nostrum error at vel.
+
+Ea fugiat quia quis. Culpa sunt qui eos et voluptatibus quibusdam esse qui. Est similique deserunt atque rerum quam neque. Numquam dolorem perferendis dolor et cumque quisquam nostrum. Ipsam officiis aut minus ut et est tempora.
+
+Voluptate labore vel aspernatur vel delectus a quam. Aperiam incidunt harum et nisi aliquid neque. Esse in explicabo nesciunt. Et ab dolores dolor eligendi.
+
