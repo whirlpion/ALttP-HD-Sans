@@ -6,9 +6,28 @@ q r s t u v w x y z { | } ~
 
 std::string hi = "hello, world";
 
+
+abcdefghijklmnopqrstuvwxyz
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
 char c = 'a';
 
+typedef char* pchar_t;
+
+pchar_t p = &c;
+
+if constexpr(val == 47.0f) {
+    printf("hello there!");
+}
+
 printf("%s", hi.c_str());
+
+for(auto f : foobars) {
+    fmt::println("{0}\n", f);
+}
+
+foobar[0] = {"lol mate"};
 
 Maxime occaecati quo consectetur unde dignissimos laudantium iusto reiciendis. Rem fuga provident necessitatibus dolorem et. Officiis aspernatur dicta deserunt quod molestias autem. Porro qui dolore sunt eum error a aliquam accusamus. Cupiditate cumque quos numquam ipsum voluptas dolores in quis. Corporis quam nobis deserunt explicabo modi est qui.
 
@@ -19,4 +38,5 @@ Aspernatur in tenetur sit commodi ipsa reiciendis sequi. Tenetur voluptatem esse
 Ea fugiat quia quis. Culpa sunt qui eos et voluptatibus quibusdam esse qui. Est similique deserunt atque rerum quam neque. Numquam dolorem perferendis dolor et cumque quisquam nostrum. Ipsam officiis aut minus ut et est tempora.
 
 Voluptate labore vel aspernatur vel delectus a quam. Aperiam incidunt harum et nisi aliquid neque. Esse in explicabo nesciunt. Et ab dolores dolor eligendi.
+
 
